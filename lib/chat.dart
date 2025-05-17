@@ -18,7 +18,7 @@ class _ChatPageState extends State<ChatPage> {
 
   void getAnswer() async {
     final url =
-        "https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=AIzaSyDdDJ1O1PKqztxP12Ye9Jjarr8Qb9Cogsg";
+        "apikey";
     final uri = Uri.parse(url);
 
 
