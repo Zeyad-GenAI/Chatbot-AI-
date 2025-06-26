@@ -300,7 +300,7 @@ A: Fork the repository, create a feature branch, implement your changes, and sub
 
 | Onboarding | Chat Interface | AI Response |
 |------------|----------------|-------------|
-| ![Onboarding](screenshots/onboarding.png) | ![Chat](screenshots/chat.png) | ![AI Response](screenshots/response.png) |
+| ![Onboarding](Screen_App/Screenshot_20250401-003420.png) | ![Chat](Screen_App/Screenshot_20250401-003506.png) | ![AI Response](Screen_App/Screenshot_20250401-003836.png) |
 
 ---
 
