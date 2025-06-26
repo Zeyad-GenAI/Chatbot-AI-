@@ -1,8 +1,8 @@
 # 🤖 Flutter AI ChatBot
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev) 
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev) 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com) 
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://apple.com/ios)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -47,7 +47,7 @@ dependencies:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flutter-ai-chatbot.git
+git clone https://github.com/Zeyad-GenAI/Chatbot-AI.git
 cd flutter-ai-chatbot
 ```
 
@@ -234,10 +234,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 Support & Contact
 
-- **Email**: support@chatbotapp.com
-- **GitHub Issues**: [Open Support Ticket](https://github.com/yourusername/flutter-ai-chatbot/issues)
-- **Discussions**: [Join Discussions](https://github.com/yourusername/flutter-ai-chatbot/discussions)
-- **Documentation**: [Wiki Pages](https://github.com/yourusername/flutter-ai-chatbot/wiki)
+- **Email**: zeyadelfaramawy@gmail.com
+- **GitHub Issues**: [Open Support Ticket](https://github.com/Zeyad-GenAI/flutter-ai-chatbot/issues)
+- **Discussions**: [Join Discussions](https://github.com/Zeyad-GenAI/flutter-ai-chatbot/discussions)
+- **Documentation**: [Wiki Pages](https://github.com/Zeyad-GenAI/flutter-ai-chatbot/wiki)
 
 ### Frequently Asked Questions
 
@@ -310,6 +310,6 @@ A: Fork the repository, create a feature branch, implement your changes, and sub
 
 Give a ⭐️ if this project helped you!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Zeyad)
 
 </div>
