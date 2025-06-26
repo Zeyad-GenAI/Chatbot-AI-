@@ -220,17 +220,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - UX/UI concepts from leading chat applications and AI interfaces
 - Color schemes and visual effects following contemporary design trends
 
----
-
-<div align="center">
-
-**Made with ❤️ and Flutter**
-
-[⭐ If you like this project, don't forget to give it a star](https://github.com/yourusername/flutter-ai-chatbot)
-
-</div>
-
----
 
 ## 📞 Support & Contact
 
@@ -281,19 +270,6 @@ A: Fork the repository, create a feature branch, implement your changes, and sub
 
 ---
 
-## 📊 Project Statistics
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/flutter-ai-chatbot?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/yourusername/flutter-ai-chatbot?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/yourusername/flutter-ai-chatbot?style=social" alt="GitHub watchers">
-  <img src="https://img.shields.io/github/issues/yourusername/flutter-ai-chatbot" alt="GitHub issues">
-  <img src="https://img.shields.io/github/issues-pr/yourusername/flutter-ai-chatbot" alt="GitHub pull requests">
-  <img src="https://img.shields.io/github/last-commit/yourusername/flutter-ai-chatbot" alt="GitHub last commit">
-</div>
-
----
-
 ## 📱 Screenshots
 
 > Add your app screenshots here to showcase the user interface
@@ -311,5 +287,12 @@ A: Fork the repository, create a feature branch, implement your changes, and sub
 Give a ⭐️ if this project helped you!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Zeyad)
+
+</div>
+<div align="center">
+
+**Made with ❤️ and Flutter**
+
+[⭐ If you like this project, don't forget to give it a star](https://github.com/Zeyad-GenAI/Chatbot-AI)
 
 </div>
