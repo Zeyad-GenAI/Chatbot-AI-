@@ -39,8 +39,8 @@ Flutter AI ChatBot is a modern and sophisticated intelligent chat application th
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  cupertino_icons: ^1.0.2
+  gradient_borders: ^1.0.0
+  http: ^0.13.5
 ```
 
 ## 🚀 Installation Steps
