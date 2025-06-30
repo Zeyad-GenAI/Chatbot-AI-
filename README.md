@@ -296,3 +296,7 @@ Give a ⭐️ if this project helped you!
 [⭐ If you like this project, don't forget to give it a star](https://github.com/Zeyad-GenAI/Chatbot-AI)
 
 </div>
+
+<p align="center">
+  <a href="#top">⬆️ Back to Top</a>
+</p>
