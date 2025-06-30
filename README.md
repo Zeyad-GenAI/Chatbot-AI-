@@ -25,6 +25,19 @@ Flutter AI ChatBot is a modern and sophisticated intelligent chat application th
 - 🎨 **Custom UI Components**: Beautiful gradient text and custom border effects
 - 📜 **Conversation History**: Complete chat history with timestamp tracking
 
+---
+
+## 📱 Screenshots
+
+> Add your app screenshots here to showcase the user interface
+
+| Onboarding | Chat Interface | AI Response |
+|------------|----------------|-------------|
+| ![Onboarding](Screen_App/Screenshot_20250401-003420.png) | ![Chat](Screen_App/Screenshot_20250401-003506.png) | ![AI Response](Screen_App/Screenshot_20250401-003836.png) |
+
+---
+
+
 ## 🛠️ System Requirements
 
 | Requirement | Minimum Version |
@@ -269,17 +282,7 @@ A: Fork the repository, create a feature branch, implement your changes, and sub
 - [ ] Image compression optimization
 - [ ] Network request optimization
 
----
 
-## 📱 Screenshots
-
-> Add your app screenshots here to showcase the user interface
-
-| Onboarding | Chat Interface | AI Response |
-|------------|----------------|-------------|
-| ![Onboarding](Screen_App/Screenshot_20250401-003420.png) | ![Chat](Screen_App/Screenshot_20250401-003506.png) | ![AI Response](Screen_App/Screenshot_20250401-003836.png) |
-
----
 
 <div align="center">
 
